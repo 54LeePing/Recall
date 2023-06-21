@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 37f3377e41797ad4a93da0af696ede2e
+  - enabled: 1
+    path: Assets/Scenes/forest.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/church.unity
+    guid: d30dd1cce4021494f971c44bf94a80c4
+  - enabled: 1
+    path: Assets/Scenes/town.unity
+    guid: 58b96faed083db949a660fb9c7928eb8
+  - enabled: 1
+    path: Assets/Scenes/mountain.unity
+    guid: 8557f85061fca6a4dad1cddd9b34603f
+  - enabled: 1
+    path: Assets/Scenes/library.unity
+    guid: 6e23285c9b2f5b64a8bb05b71d1fec75
+  - enabled: 1
+    path: Assets/Scenes/pope.unity
+    guid: 48df9bad484cd8749b0c8525a905fe6d
+  - enabled: 1
+    path: Assets/Scenes/ruin.unity
+    guid: 1ba17c82c56b4c34d863508af48167c0
+  - enabled: 1
+    path: Assets/Scenes/shop.unity
+    guid: 30f414f69f6846741a85f3cec75f79e5
+  - enabled: 1
+    path: Assets/Scenes/tent.unity
+    guid: 87a71a712fba1144392e977d0979c6a1
+  - enabled: 1
+    path: Assets/Scenes/xroom.unity
+    guid: eee083e989acdd44b9bd97e6e9a11199
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 4ce5537e63ea375479f4b9e2ec19e08b
+  m_configObjects: {}

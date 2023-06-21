@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 220370f9aa4301044b6872f8c309bd47, type: 3}
+  m_Name: Xroom
+  m_EditorClassIdentifier: 
+  sentences:
+  - "(\u5BC6\u5BA4\u88AB\u9396\u4E0A\u4E86\u9700\u8981\u9470\u5319\u624D\u80FD\u958B\u555F...)"
